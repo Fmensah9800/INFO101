@@ -1,2 +1,3 @@
 # INFO101
-introduction to Informatics
+Shopping list
+buy pizza
